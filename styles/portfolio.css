@@ -184,3 +184,12 @@ footer input[type="text"], footer input[type="email"], footer textarea{
     margin-bottom: 24px;
     border: none;
 }
+
+/* icon social media */
+.icon-social-media{
+ /* display: flex; */
+}
+
+div  a{
+    margin-left: 40px;
+}
